@@ -17,3 +17,18 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+#DW Dreamweaver added files
+_notes
+_compareTemp
+configs/
+dwsync.xml
+dw_php_codehinting.config
+*mno
+
+#Atom FTP ignore files
+.ftpconfig
+.ftpignore
+.ftpconfig.cson
+id_rsa
+.DS_Store
+.git
