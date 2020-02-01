@@ -11,3 +11,5 @@ prog-160-3473
 -updated the test.js file with an if and else statement.
 
 -updated the test.js file with an if else statement that document.write if you are over a certain age
+
+-used conditional logic in the test.js folder to determin if you are the correct age to do something. both the && and || were used in and if statement
